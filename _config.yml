@@ -1,45 +1,44 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "https://still-hamlet-54987.herokuapp.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Jeff Moore # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>When the will is ready the feet are light.</h1>
+     <p>On target to to soon becoming a great web developer.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
+  email_address: jmas1_2000@hotmail.com
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "jeff.moore.359"
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "jmas12000"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/in/jeff-moore-b67458123/"
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  "https://stackexchange.com/users/11027988/jeff-moore"
   steam:
   tumblr:
-  twitter:
+  twitter: "jmas12000"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-100463125-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
